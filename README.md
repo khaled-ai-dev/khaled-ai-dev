@@ -1,41 +1,20 @@
-# Khaled
+# Khaled Mahmoud
 
-Computer Science Student | AI & Data Analytics Enthusiast
+Aspiring AI & Data Analytics Professional
 
-I build AI-powered applications that transform raw business data into actionable insights.
+Computer Science student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Business Intelligence.
 
-## Technical Skills
-
-### Programming
-- Python
-- Java
-- SQL
-
-### Data & AI
-- Machine Learning
-- Predictive Analytics
-- Data Cleaning
-- Feature Engineering
-- Business Intelligence
-
-### Tools
-- Streamlit
-- Pandas
-- Scikit-Learn
-- Git & GitHub
-
-## Featured Project
+## Featured Projects
 
 ### PulseIQ Enterprise
+AI-Powered Data Intelligence Platform
 
-AI-Powered Data Intelligence Platform that automatically analyzes business datasets, detects data quality issues, generates executive insights, and builds predictive machine learning models.
+### Employee Attrition Analysis
+Data-driven workforce analytics project using Python and exploratory data analysis.
 
-Key Features:
+## Skills
 
-- Automated Dataset Profiling
-- Intelligent Data Cleaning
-- Health Score Assessment
-- Executive Reporting
+Python • SQL • Machine Learning • Data Analytics • Streamlit • Power BI • Git • GitHub
 - Predictive Analytics
 - AI-Powered Recommendations
 - Feature Importance Analysis
@@ -44,5 +23,6 @@ Key Features:
 
 - Artificial Intelligence
 - Data Analytics
+- Data Science
 - Business Intelligence
 - Machine Learning Applications
